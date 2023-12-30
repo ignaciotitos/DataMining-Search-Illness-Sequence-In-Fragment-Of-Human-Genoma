@@ -1,1 +1,1 @@
-# DataMining-Search-Illness-Sequence-In-Fragment-Of-Human-Genoma
+# Data Mining Search Illness Sequence In Fragment Of Human Genoma
