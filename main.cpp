@@ -13,7 +13,7 @@ int main(int argc, char *argv[]) {
     string fileToRead = current_working_directory() + "/Homo_sapiens_CFTR_sequence-2.fa";
     string seq = processFile(fileToRead, maxSequenceSize); 
 
-    cout << "Enter 0 to search the long sequence for mutations or 1 to search the long sequence for mutations: ";
+    cout << "Enter 0 to search the long sequence in mutations or 1 to search the mutations in the long sequence: ";
     int choice = 1;
     cin >> choice;
 
